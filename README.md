@@ -1,6 +1,8 @@
 # cws
 https://www.monoprice.com/product?p_id=30994
 
+This plugin currently works with Windows only.
+
 Did you just buy the Monoprice MP Mini Deluxe SLA LCD bla bla bla bla Resin super printer because it went on a crazy sale?  Cool!  How do you like the Creation Workshop software that comes with it?  Amazing, isn't it?  Anyhow... If you want to use Chitubox instead with your new printer, here is the plugin for you!
 
 Currently, has only been tested with the Monoprice resin that came with the printer.  Likely, more testings and profiles to come as I am currently interested in this.
