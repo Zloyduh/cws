@@ -7,9 +7,11 @@ This plugin currently works with Windows only.
 I wrote this plugin after getting frustrated with Creation Workshop software that came with my Monoprice MP Mini Deluxe SLA.
 If you want to use Chitubox instead with your printer, here is the Chitubox plugin for you.
 
-Currently, has only been tested with the Monoprice resin that came with the printer.  Likely, more testings and profiles to come as I am currently interested in this.
+This has only been tested with the Monoprice resin that came with the printer.  Likely, more testings and profiles to come as I am currently interested in this.
 
-There are currently 2 Chitubox profiles: 50mi - pretty much mimics the Creation Workshop version.  20 mi - you can trully squeeze out the 20 mi out of your printer, something that Creation Workshop / Monoprice software does not do for you out of the box.  Enjoy and be happy!
+Included Chitubox profiles:
+- 50 mi - pretty much mimics the Creation Workshop version.  
+- 20 mi - you can trully squeeze out the 20 mi out of your printer, something that Creation Workshop / Monoprice software does not do for you out of the box.
 
 If you like this plugin, you should buy me a beer or two! :)
 
