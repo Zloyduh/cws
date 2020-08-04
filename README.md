@@ -1,6 +1,6 @@
 # cws
 
-CWS slider plugin for Chitubox.
+CWS slicer plugin for Chitubox.
 
 This plugin currently works with Windows only.
 
