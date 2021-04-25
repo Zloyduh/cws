@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "Zloyduh_CWS",
+    "description": "CWS (Zloyduh)",
+    "author": "Zloyduh",
+    "email": "",
+    "type": "outputSlicer",
+    "winExecPath": "ZloyduhCws.exe",
+    "macExecPath": "ZloyduhCws_Mac",
+    "linuxExecPath": "ZloyduhCws_Linux",
+    "inputSuffix": "zip_raw_png_32b",
+    "outputSuffix": "cws",
+    "detail": "Made in the USA! :P",
+    "requireVersion": "V1.4.1"
+  }
+}
