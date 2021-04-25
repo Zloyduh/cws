@@ -1,5 +1,9 @@
 # cws
 
+Get the actual plugin from PublishOutput folder.  It also contains a few configurations for Chitubox to try out.
+
+-------------------------------------------------------------------------------------------------------------
+
 CWS slicer plugin for Chitubox.
 
 This plugin currently works with Windows only.
