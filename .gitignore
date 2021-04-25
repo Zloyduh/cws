@@ -26,7 +26,6 @@ _UpgradeReport_Files/
 bin/
 obj/
 TestResults/
-PublishOutput/
 ###################
 # Web publish log #
 ###################
@@ -48,7 +47,6 @@ PublishOutput/
 *.jar
 *.rar
 *.tar
-*.zip
 ######################
 # Logs and databases #
 ######################
