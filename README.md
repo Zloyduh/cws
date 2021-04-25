@@ -1,6 +1,7 @@
 # cws
 
 Get the actual plugin from PublishOutput folder.  It also contains a few configurations for Chitubox to try out.
+Compile the code under Release.  This will create the .CHplugin file in PublishOutput directory.  See properties of the project file.
 
 -------------------------------------------------------------------------------------------------------------
 
